@@ -16,7 +16,7 @@
 (() => {
   "use strict";
 
-  // TODO: Write code here!.
+  // TODO: Write code here!
 })();
 
 function function_name(params) {
