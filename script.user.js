@@ -19,6 +19,6 @@
   // TODO: Write code here!
 })();
 
-function function_name(params) {
+function functionName(params) {
 
 }
